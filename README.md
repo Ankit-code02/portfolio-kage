@@ -116,7 +116,7 @@ The generated site is written to `dist/`. Deploy the contents of that directory 
 
 - GitHub: https://github.com/Ankit-code02
 - LinkedIn: https://www.linkedin.com/in/ankit0209/
-- Portfolio: https://ankit-portfolio-two-brown.vercel.app
+- Portfolio: https://vercel.com/ankit-8772/portfolio-kage/3k5ifG8x8n44nnDrmfhRue6UUo3Y
 
 
 
